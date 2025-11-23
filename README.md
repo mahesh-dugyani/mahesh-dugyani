@@ -79,7 +79,7 @@ This is a full SQL analytics project covering:
 ## 🌱 Currently Exploring
 
 - 📘 Python for Data Science  
-- 🤖 Machine Learning Basics  
+- 🤖 Machine Learning 
 - 📈 Power BI Advanced Features  
 - 🗄️ SQL Performance Optimization  
 
