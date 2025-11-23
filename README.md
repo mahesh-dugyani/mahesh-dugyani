@@ -1,105 +1,124 @@
-# 👋 Hi, I'm Mahesh Dugyani!
+<h1 align="center">👋 Hi, I'm <span style="color:#ff4b4b;">Mahesh Dugyani</span></h1>
 
-## 🎯 Data Science Enthusiast | Power BI Developer | Python Learner
+<h3 align="center">✨ Data Science Enthusiast | SQL Analyst | Power BI Developer ✨</h3>
 
-I'm a recent **B.Tech Computer Science graduate** from Bharath University, Chennai (85%) currently pursuing advanced training in **Data Science at Innomatics Research Lab**. I'm passionate about transforming raw data into actionable business insights through analytics and visualization.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahesh-dugyani&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 **Currently Learning**: Data Science, Machine Learning, and Advanced Analytics
-- 🎓 **Education**: B.Tech in Computer Science (Bharath University, Chennai)
-- 📊 **Focus Areas**: Power BI, Python, Data Analysis, Business Intelligence
-- 🌱 **Recent Achievement**: Built a comprehensive customer churn analysis dashboard
-- 💼 **Training**: Data Science Program at Innomatics Research Lab
-- 🎯 **Career Goal**: Becoming a skilled Data Scientist specializing in business analytics
+- 🎓 **B.Tech Computer Science Graduate** – Bharath University, Chennai (85%)
+- 📊 Currently training in **Data Science at Innomatics Research Lab**
+- 🔍 Passionate about **SQL, Data Analytics & Business Intelligence**
+- 🧠 Strong in **logical problem-solving & real-world business analysis**
+- 🎯 Goal: Become a **Data Analyst / BI Developer / SQL Engineer**
 
 ---
 
 ## 💻 Technical Skills
 
-**Data Visualization & BI:**
-- 📊 Power BI (DAX, Data Modeling, Interactive Dashboards)
-- 📈 Data Storytelling & Business Intelligence
+### ⚡ **Programming**
+- 🐍 Python (Pandas, NumPy – Learning)
+- 💾 SQL (Joins, Subqueries, Window Functions, Aggregations)
 
-**Programming:**
-- 🐍 Python (NumPy, Pandas - Learning)
-- 💾 SQL (Database querying)
+### 📊 **Business Intelligence**
+- Power BI (DAX, Data Modeling, Storytelling)
+- Excel (Dashboards, Pivot Tables)
 
-**Analytics:**
-- 📉 Customer Analytics & Churn Analysis
-- 📊 Exploratory Data Analysis (EDA)
-- 📈 Statistical Analysis
-
-**Tools & Platforms:**
-- Git & GitHub
-- Microsoft Excel
-- PowerPoint Presentations
+### 🛠 **Tools**
+- MySQL Workbench  
+- VS Code  
+- Git & GitHub  
+- Power BI Desktop  
 
 ---
 
-## 🎯 Featured Project
+## 🌟 Featured Projects
 
-### 📊 Customer Churn Analysis Dashboard
-**Power BI | DAX | Business Intelligence**
+### 📊 **1. Customer Churn Analysis – Power BI**
+**Tech:** Power BI | DAX | Data Analytics  
+**Highlights:**
+- Identified contract type as key churn driver  
+- Designed 3 interactive dashboard pages  
+- Gained insights to reduce churn by 40%  
 
-Comprehensive analysis of 7,043 telecom customers identifying churn patterns and retention strategies.
+🔗 **Repo:** https://github.com/mahesh-dugyani/Customer-Churn-Analysis-PowerBI
 
-**Key Achievements:**
-- ✅ Discovered contract type as primary churn predictor (14x difference)
-- ✅ Built 3 interactive dashboard pages with advanced DAX calculations
-- ✅ Identified 68% of churn attributed to fiber optic services
-- ✅ Provided actionable recommendations to reduce churn by 40%
+---
 
-[🔗 View Project](https://github.com/mahesh-dugyani/Customer-Churn-Analysis-PowerBI)
+### 🗄️ **2. Grocery Store Management – SQL Project**
+**Tech:** SQL | ERD | MySQL Workbench | Data Modeling  
+
+This is a full SQL analytics project covering:
+- Store database design (7 tables)
+- ER Diagram & schema creation
+- SQL queries for:
+  - Customer Insights  
+  - Product Performance  
+  - Sales Trends  
+  - Supplier Contribution  
+  - Employee Performance  
+- PPT + Documentation included
+
+🔗 **Repo:** https://github.com/mahesh-dugyani/Grocery-Store-SQL-Project
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahesh-dugyani&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahesh-dugyani&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh-dugyani&theme=radical" height="150" />
+</p>
 
 ---
 
 ## 🌱 Currently Exploring
 
-- 🤖 Machine Learning for Predictive Analytics
-- 📊 Advanced Power BI Features & Custom Visuals
-- 🐍 Python for Data Science (Pandas, Scikit-learn)
-- 📈 Time Series Analysis & Forecasting
+- 📘 Python for Data Science  
+- 🤖 Machine Learning Basics  
+- 📈 Power BI Advanced Features  
+- 🗄️ SQL Performance Optimization  
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheshdugyani/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahesh-dugyani)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshdugyani414@gmail.com)
+<p align="left">
+<a href="https://www.linkedin.com/in/maheshdugyani/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:maheshdugyani414@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://github.com/mahesh-dugyani">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
 
 ---
 
 ## 🎓 Learning Journey
 
-I'm on a continuous learning journey, transitioning from computer science fundamentals to practical data science applications. Every project is an opportunity to grow, and I'm excited about leveraging data to solve real-world business problems.
-
-**Recent Milestones:**
-- ✅ Completed Power BI Customer Churn Analysis Project
-- ✅ Presented data-driven insights to stakeholders
-- 🔄 Currently mastering Python for data manipulation
-- 🎯 Next: Building machine learning models for churn prediction
+- ✔ Completed Churn Analysis Project  
+- ✔ Completed Grocery SQL End-to-End Project  
+- ✔ Learned ER Modeling & SQL Aggregations  
+- 🔄 Currently improving Python  
+- 🎯 Next Goal: Build ML model for Churn Prediction  
 
 ---
 
-### 💡 Fun Facts About Me
+## ✨ Fun Facts
 
-- 📚 I love breaking down complex concepts into simple explanations (like explaining to a 14-year-old!)
-- 🎯 Prefer learning with practical examples and hands-on projects
-- 🌍 Learning American English through interactive voice apps
-- 💪 Overcame the challenge of applying learned concepts without solutions
+- I explain complex things in simple ways  
+- I learn fastest by doing real projects  
+- Improving my American English fluency  
+- Love transforming raw data into insights  
 
 ---
 
-⭐ **If you find my projects interesting, feel free to star them and connect!**
+<h3 align="center">⭐ If you like my work, consider giving a star!</h3>
 
-*"Turning data into decisions, one visualization at a time."* 📊✨
