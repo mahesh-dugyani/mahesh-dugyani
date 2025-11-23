@@ -14,7 +14,7 @@
 - 📊 Currently training in **Data Science at Innomatics Research Lab**
 - 🔍 Passionate about **SQL, Data Analytics & Business Intelligence**
 - 🧠 Strong in **logical problem-solving & real-world business analysis**
-- 🎯 Goal: Become a **Data Analyst / BI Developer / SQL Engineer**
+- 🎯 Goal: Become a **Data Scientist / Data Analyst / BI Developer / SQL Engineer**
 
 ---
 
