@@ -56,17 +56,6 @@ https://github.com/mahesh-dugyani/generative-ai-projects
 
 ---
 
-## 📊 Customer Churn Prediction – Machine Learning  
-
-**Tech Stack:** Python | Pandas | Scikit-learn  
-
-✔ Data preprocessing & feature engineering  
-✔ Built classification models  
-✔ Compared Logistic Regression & Decision Tree  
-✔ Evaluated using Accuracy, Precision, Recall  
-
-🔗 Repo: (Add ML repo link here if separate)
-
 ---
 
 ## 🗄️ Grocery Store Analytics – SQL  
