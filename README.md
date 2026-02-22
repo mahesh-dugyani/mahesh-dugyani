@@ -1,73 +1,103 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#ff4b4b;">Mahesh Dugyani</span></h1>
+<h1 align="center">👋 Hi, I'm Mahesh Dugyani</h1>
 
-<h3 align="center">✨ Data Science Enthusiast | SQL Analyst | Power BI Developer ✨</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahesh-dugyani&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
-</p>
+<h3 align="center">🚀 Data Scientist | Generative AI Engineer | Machine Learning Enthusiast</h3>
 
 ---
 
-## 🚀 About Me
+# 💼 Technical Skills  
 
-- 🎓 **B.Tech Computer Science Graduate** – Bharath University, Chennai (85%)
-- 📊 Currently training in **Data Science at Innomatics Research Lab**
-- 🔍 Passionate about **SQL, Data Analytics & Business Intelligence**
-- 🧠 Strong in **logical problem-solving & real-world business analysis**
-- 🎯 Goal: Become a **Data Scientist / Data Analyst / BI Developer / SQL Engineer**
+### 🧠 Machine Learning
+- Supervised & Unsupervised Learning  
+- Feature Engineering  
+- Model Evaluation (Accuracy, Precision, Recall, F1-Score)  
+- Logistic Regression, Decision Trees  
+- Scikit-learn  
 
----
+### 🤖 Generative AI
+- LLM Integration (Gemini / OpenAI APIs)  
+- Prompt Engineering  
+- RAG (Retrieval-Augmented Generation)  
+- Streamlit AI Applications  
+- AI Chatbot Development  
 
-## 💻 Technical Skills
+### 🐍 Programming
+- Python (Pandas, NumPy, Matplotlib)  
+- SQL (Advanced Queries, CTEs, Window Functions)  
 
-### ⚡ **Programming**
-- 🐍 Python (Pandas, NumPy – Learning)
-- 💾 SQL (Joins, Subqueries, Window Functions, Aggregations)
+### 📊 Business Intelligence
+- Power BI (DAX, Data Modeling, KPI Dashboards)  
+- Excel (Advanced Analytics & Reporting)  
 
-### 📊 **Business Intelligence**
-- Power BI (DAX, Data Modeling, Storytelling)
-- Excel (Dashboards, Pivot Tables)
-
-### 🛠 **Tools**
-- MySQL Workbench  
-- VS Code  
+### 🛠 Tools
 - Git & GitHub  
+- VS Code  
+- MySQL Workbench  
 - Power BI Desktop  
+- Streamlit  
 
 ---
 
-## 🌟 Featured Projects
-
-### 📊 **1. Customer Churn Analysis – Power BI**
-**Tech:** Power BI | DAX | Data Analytics  
-**Highlights:**
-- Identified contract type as key churn driver  
-- Designed 3 interactive dashboard pages  
-- Gained insights to reduce churn by 40%  
-
-🔗 **Repo:** https://github.com/mahesh-dugyani/Customer-Churn-Analysis-PowerBI
+# 🌟 Featured Projects  
 
 ---
 
-### 🗄️ **2. Grocery Store Management – SQL Project**
-**Tech:** SQL | ERD | MySQL Workbench | Data Modeling  
+## 🤖 Generative AI Projects Collection  
 
-This is a full SQL analytics project covering:
-- Store database design (7 tables)
-- ER Diagram & schema creation
-- SQL queries for:
-  - Customer Insights  
-  - Product Performance  
-  - Sales Trends  
-  - Supplier Contribution  
-  - Employee Performance  
-- PPT + Documentation included
+**Tech Stack:** Python | LLM APIs | Streamlit | Prompt Engineering  
 
-🔗 **Repo:** https://github.com/mahesh-dugyani/Grocery-Store-SQL-Project
+✔ AI-powered applications  
+✔ LLM-based automation tools  
+✔ Structured prompting techniques  
+✔ Real-world AI use cases  
+✔ End-to-end deployment  
+
+🔗 **Repo:**  
+https://github.com/mahesh-dugyani/generative-ai-projects  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Customer Churn Prediction – Machine Learning  
+
+**Tech Stack:** Python | Pandas | Scikit-learn  
+
+✔ Data preprocessing & feature engineering  
+✔ Built classification models  
+✔ Compared Logistic Regression & Decision Tree  
+✔ Evaluated using Accuracy, Precision, Recall  
+
+🔗 Repo: (Add ML repo link here if separate)
+
+---
+
+## 🗄️ Grocery Store Analytics – SQL  
+
+**Tech Stack:** SQL | ER Modeling | MySQL  
+
+✔ Designed relational database (7 tables)  
+✔ Wrote 40+ analytical SQL queries  
+✔ Customer segmentation & revenue insights  
+✔ Business KPI analysis  
+
+🔗 Repo:  
+https://github.com/mahesh-dugyani/Grocery-Store-SQL-Project  
+
+---
+
+## 📊 Customer Churn Dashboard – Power BI  
+
+**Tech Stack:** Power BI | DAX  
+
+✔ Built interactive executive dashboards  
+✔ Identified churn drivers  
+✔ Created dynamic DAX measures  
+✔ Designed business-level KPIs  
+
+🔗 Repo:  
+https://github.com/mahesh-dugyani/Customer-Churn-Analysis-PowerBI  
+
+---
+
+# 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahesh-dugyani&show_icons=true&theme=radical" height="150" />
@@ -76,16 +106,16 @@ This is a full SQL analytics project covering:
 
 ---
 
-## 🌱 Currently Exploring
+# 🌱 Currently Building  
 
-- 📘 Python for Data Science  
-- 🤖 Machine Learning 
-- 📈 Power BI Advanced Features  
-- 🗄️ SQL Performance Optimization  
+- RAG-based AI Systems  
+- Advanced Machine Learning Models  
+- LLM Application Deployment  
+- Production-ready AI Projects  
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me  
 
 <p align="left">
 <a href="https://www.linkedin.com/in/maheshdugyani/">
@@ -101,24 +131,4 @@ This is a full SQL analytics project covering:
 
 ---
 
-## 🎓 Learning Journey
-
-- ✔ Completed Churn Analysis Project  
-- ✔ Completed Grocery SQL End-to-End Project  
-- ✔ Learned ER Modeling & SQL Aggregations  
-- 🔄 Currently improving Python  
-- 🎯 Next Goal: Build ML model for Churn Prediction  
-
----
-
-## ✨ Fun Facts
-
-- I explain complex things in simple ways  
-- I learn fastest by doing real projects  
-- Improving my American English fluency  
-- Love transforming raw data into insights  
-
----
-
 <h3 align="center">⭐ If you like my work, consider giving a star!</h3>
-
