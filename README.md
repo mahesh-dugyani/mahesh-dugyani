@@ -1,169 +1,163 @@
 <h1 align="center">👋 Hi, I'm Mahesh Dugyani</h1>
 
-<h3 align="center">🚀 Data Scientist | Machine Learning Engineer | Generative AI Engineer</h3>
+<h3 align="center">🚀 AI Engineer | Machine Learning | Generative AI</h3>
 
 <p align="center">
-Building production-ready AI systems with measurable business impact.
+Building real-world AI systems using Machine Learning and Large Language Models
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,vscode,sklearn,streamlit&theme=dark">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 About Me
 
-- 🎓 B.Tech (CSE) Graduate  
-- 📍 Hyderabad, India  
-- 🧠 Strong foundation in Machine Learning, Data Science & Generative AI  
-- 🚀 Focused on building deployable, real-world AI applications  
-- 💡 Passionate about solving business problems using data  
+* 🎓 B.Tech – Computer Science & Engineering
+* 📍 Hyderabad, India
+* 🤖 Interested in **Artificial Intelligence, Machine Learning & Generative AI**
+* 🧠 Experienced in building **LLM-based AI applications and ML models**
+* 🚀 Focused on building **deployable AI systems with real-world impact**
+
+---
+
+# 📊 GitHub Dashboard
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mahesh-dugyani&show_icons=true&theme=radical" height="170">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh-dugyani&theme=radical" height="170">
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-dugyani&layout=compact&theme=radical" height="170">
+
+</p>
 
 ---
 
 # 💼 Technical Expertise
 
 ## 🧠 Machine Learning
-- Supervised & Unsupervised Learning  
-- Feature Engineering & Data Preprocessing  
-- Model Evaluation (MAE, RMSE, R², Accuracy, Precision, Recall, F1)  
-- Logistic Regression, Decision Trees, KNN  
-- Scikit-learn  
+
+* Supervised & Unsupervised Learning
+* Feature Engineering
+* Model Evaluation (MAE, RMSE, R², Accuracy)
+* Decision Trees, KNN
+* Scikit-learn
 
 ## 🤖 Generative AI
-- LLM Integration (Gemini / OpenAI APIs)  
-- Prompt Engineering  
-- Retrieval-Augmented Generation (RAG)  
-- AI Chatbot Development  
-- Streamlit-based AI Applications  
+
+* Large Language Models (LLMs)
+* Prompt Engineering
+* Retrieval Augmented Generation (RAG)
+* AI Chatbot Development
+* LLM Application Deployment
 
 ## 🐍 Programming & Data
-- Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- SQL (Advanced Queries, CTEs, Window Functions)  
 
-## 📊 Business Intelligence
-- Power BI (DAX, Data Modeling, KPI Dashboards)  
-- Excel (Advanced Analytics & Reporting)  
+* Python (Pandas, NumPy, Matplotlib, Seaborn)
+* SQL (Joins, Aggregations, Advanced Queries)
 
 ## 🛠 Tools & Platforms
-- Git & GitHub  
-- Streamlit  
-- Hugging Face Spaces  
-- VS Code  
-- MySQL Workbench  
-- Power BI Desktop  
+
+* Streamlit
+* Hugging Face Spaces
+* Git & GitHub
+* Jupyter Notebook
+* Power BI
 
 ---
 
-# 🌟 Featured Projects
+# 🌟 Featured AI Projects
 
 ---
 
-## 🏦 Loan Applicant Profile Score Prediction – Machine Learning
+## 🤖 AI Career Advisor (Generative AI)
 
-**Tech Stack:** Python | Scikit-learn | Decision Tree | KNN | EDA | Hugging Face  
+**Tech Stack:** Python | Gemini/OpenAI | Prompt Engineering | Streamlit | HuggingFace
 
-- Built an end-to-end ML regression model to predict loan applicant creditworthiness  
-- Conducted EDA with correlation heatmaps and feature importance analysis  
-- Compared Decision Tree & KNN models for non-linear financial pattern capture  
-- Achieved **R² = 0.86**, demonstrating strong predictive performance  
-- Deployed as a live web application for real-time scoring  
+* Built an **LLM-powered career advisor chatbot** that provides personalized career guidance
+* Implemented structured **prompt engineering techniques**
+* Developed an **interactive Streamlit chat interface**
+* Deployed the application on **Hugging Face Spaces**
 
-🔗 **GitHub:**  
-https://github.com/mahesh-dugyani/Profile-Score-Prediction  
-
-🌐 **Live App:**  
-https://huggingface.co/spaces/maheshdugyani/Profile-score-prediction  
+🌐 Live Demo
+https://huggingface.co/spaces/maheshdugyani/Brutal_AI_Career_Advisor_
 
 ---
 
-## 🌽 Corn Leaf Disease Detection – Image Classification
+## 🏦 Loan Applicant Risk Prediction
 
-**Tech Stack:** Python | Scikit-learn | OpenCV | Streamlit | Hugging Face  
+**Tech Stack:** Python | Scikit-learn | EDA | Hugging Face
 
-- Developed a multi-class image classification system for corn leaf diseases  
-- Preprocessed images (300×300 resizing, feature flattening) for ML compatibility  
-- Trained a Decision Tree classifier for disease detection  
-- Classified leaves into: Common Rust, Gray Leaf Spot, Blight, Healthy  
-- Built and deployed an interactive Streamlit web application  
-- Implemented domain-specific safeguards for responsible ML usage  
+* Built an **end-to-end machine learning pipeline** for loan risk prediction
+* Compared Decision Tree and KNN models
+* Achieved **R² = 0.86 predictive accuracy**
+* Deployed as a **live ML web application**
 
-🔗 **GitHub:**  
-https://github.com/mahesh-dugyani/Corn-leaf-disease-detection  
+🔗 GitHub
+https://github.com/mahesh-dugyani/Profile-Score-Prediction
 
 ---
 
-## 🤖 Generative AI Applications Collection
+## 🌽 Crop Disease Detection (Computer Vision)
 
-**Tech Stack:** Python | LLM APIs | Streamlit | Prompt Engineering  
+**Tech Stack:** Python | OpenCV | Machine Learning | Streamlit
 
-- Developed multiple AI-powered applications using Large Language Models  
-- Implemented structured prompting techniques  
-- Built RAG-based systems for knowledge-grounded responses  
-- Created deployable AI chat interfaces  
+* Developed an image classification model for crop disease detection
+* Preprocessed plant leaf images for classification
+* Built an **interactive web interface for predictions**
 
-🔗 **GitHub:**  
-https://github.com/mahesh-dugyani/generative-ai-projects  
-
----
-
-## 🗄️ Grocery Store Analytics – SQL
-
-**Tech Stack:** SQL | MySQL | ER Modeling  
-
-- Designed normalized relational schema (7 tables)  
-- Wrote 40+ advanced analytical queries  
-- Performed revenue trend and customer segmentation analysis  
-- Generated KPIs for business intelligence insights  
-
-🔗 **GitHub:**  
-https://github.com/mahesh-dugyani/Grocery-Store-SQL-Project  
+🔗 GitHub
+https://github.com/mahesh-dugyani/Corn-leaf-disease-detection
 
 ---
 
-## 📊 Customer Churn Dashboard – Power BI
+## 📊 Customer Churn Analysis Dashboard
 
-**Tech Stack:** Power BI | DAX | Data Modeling  
+**Tech Stack:** Power BI | Data Modeling | DAX
 
-- Built executive-level interactive dashboards  
-- Identified churn drivers and behavioral patterns  
-- Created dynamic DAX measures for KPI tracking  
-- Delivered actionable business insights  
+* Built interactive dashboards for customer churn analysis
+* Identified churn drivers and customer behavior patterns
+* Delivered actionable business insights
 
-🔗 **GitHub:**  
-https://github.com/mahesh-dugyani/Customer-Churn-Analysis-PowerBI  
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahesh-dugyani&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh-dugyani&theme=radical" height="150" />
-</p>
+🔗 GitHub
+https://github.com/mahesh-dugyani/Customer-Churn-Analysis-PowerBI
 
 ---
 
-# 🚀 Currently Working On
+# 🚀 Currently Learning
 
-- Production-ready ML systems  
-- Advanced RAG-based AI applications  
-- Scalable LLM integrations  
-- Real-world business analytics projects  
+* Advanced **Generative AI Applications**
+* **RAG Architecture**
+* **LangChain**
+* Scalable **LLM Systems**
 
 ---
 
 # 📫 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/maheshdugyani/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
+
 <a href="mailto:maheshdugyani414@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
+
 <a href="https://github.com/mahesh-dugyani">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
+
 </p>
 
 ---
 
-<h3 align="center">⭐ If you find my projects valuable, consider giving a star!</h3>
+<h3 align="center">⭐ If you find my projects useful, consider giving a star!</h3>
