@@ -22,24 +22,6 @@ Building real-world AI systems using Machine Learning and Large Language Models
 
 ---
 
-# 📊 GitHub Dashboard
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mahesh-dugyani&show_icons=true&theme=radical" height="170">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh-dugyani&theme=radical" height="170">
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-dugyani&layout=compact&theme=radical" height="170">
-
-</p>
-
----
-
 # 💼 Technical Expertise
 
 ## 🧠 Machine Learning
@@ -79,15 +61,15 @@ Building real-world AI systems using Machine Learning and Large Language Models
 
 ## 🤖 AI Career Advisor (Generative AI)
 
-**Tech Stack:** Python | Gemini/OpenAI | Prompt Engineering | Streamlit | HuggingFace
+**Tech Stack:** Python | Gemini/OpenAI | Prompt Engineering | Streamlit | Hugging Face
 
 * Built an **LLM-powered career advisor chatbot** that provides personalized career guidance
-* Implemented structured **prompt engineering techniques**
-* Developed an **interactive Streamlit chat interface**
-* Deployed the application on **Hugging Face Spaces**
+* Implemented structured **prompt engineering techniques** to generate context-aware responses
+* Developed an **interactive Streamlit chat interface** for real-time AI conversations
+* Deployed the application using **Hugging Face Spaces**
 
-🌐 Live Demo
-https://huggingface.co/spaces/maheshdugyani/Brutal_AI_Career_Advisor_
+🔗 **GitHub**
+https://github.com/mahesh-dugyani/generative-ai-projects
 
 ---
 
